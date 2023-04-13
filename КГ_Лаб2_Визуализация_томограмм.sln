@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КГ_Лаб2_Визуализация_томограмм", "КГ_Лаб2_Визуализация_томограмм.csproj", "{5E8E587E-082A-46B8-8D93-C68278FAA3DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0AE1404-7848-4585-B747-57B5E7CF4F34}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8E587E-082A-46B8-8D93-C68278FAA3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8E587E-082A-46B8-8D93-C68278FAA3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8E587E-082A-46B8-8D93-C68278FAA3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8E587E-082A-46B8-8D93-C68278FAA3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A56820E4-6233-4309-947C-0CCF5A960BCF}
+	EndGlobalSection
+EndGlobal
